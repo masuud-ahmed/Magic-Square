@@ -8,7 +8,6 @@
 <body>
 
 <h2>3x3 Magic Square</h2>
- <h3>Masud Ahmed Yusuf C1211446</h3>
 <?php
 // Define an array of 9 consecutive numbers, as required by the assignment
 $consecutiveNumbers = range(1, 9); // Example: [1, 2, 3, 4, 5, 6, 7, 8, 9]
